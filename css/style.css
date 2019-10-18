@@ -1,0 +1,682 @@
+body{
+background-color: rgb(237, 212, 240);
+}
+
+ul{
+	list-style: none;
+}
+
+.ba-ul{
+	background-color: #E9D7C2;
+	border: 10px;
+	color: #201710;
+	width: 600px;
+	height: 600px;
+	display: flex;
+	position: relative;
+
+	margin: 0;
+	padding: 0;
+
+}
+
+
+.ba-li1{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: #fff;
+}
+
+.ba-li2 {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: rgb(37, 34, 34);
+	left: 75px;
+}
+
+.ba-li3{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: #fff;
+	left: 150px;
+}
+
+.ba-li4 {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: rgb(37, 34, 34);
+	left: 225px;
+}
+
+.ba-li5{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: #fff;
+	left: 300px;
+}
+
+.ba-li6 {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: rgb(37, 34, 34);
+	left: 375px;
+}
+
+.ba-li7{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: #fff;
+	left: 450px;
+}
+.ba-li8 {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: rgb(37, 34, 34);
+	left: 525px;
+}
+
+
+
+
+
+.ba-li9{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color:rgb(37, 34, 34) ;
+	top: 75px;
+}
+
+.ba-li10 {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: #fff;
+	left: 75px;
+	top: 75px;
+}
+
+.ba-li11{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: rgb(37, 34, 34);
+	left: 150px;
+	top: 75px;
+}
+
+.ba-li12{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: #fff ;
+	top: 75px;
+	left: 225px;
+}
+
+.ba-li13 {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color:rgb(37, 34, 34);
+	left: 300px;
+	top: 75px;
+}
+
+.ba-li14{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: #fff ;
+	top: 75px;
+	left: 375px;
+}
+
+.ba-li15{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color:rgb(37, 34, 34);
+	left: 450px;
+	top: 75px;
+}
+
+.ba-li16{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: #fff ;
+	top: 75px;
+	left: 525px;
+}
+
+
+
+
+
+
+.ba-li17{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: #fff;
+	top: 150px;
+}
+
+.ba-li18 {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: rgb(37, 34, 34);
+	left: 75px;
+	top:150px;
+}
+
+.ba-li19{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: #fff;
+	left: 150px;
+	top: 150px;
+}
+
+.ba-li20 {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: rgb(37, 34, 34);
+	left: 225px;
+	top: 150px;
+}
+
+.ba-li21{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: #fff;
+	left: 300px;
+	top: 150px;
+}
+
+.ba-li22 {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: rgb(37, 34, 34);
+	left: 375px;
+	top: 150px;
+}
+
+.ba-li23{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: #fff;
+	left: 450px;
+	top: 150px;
+}
+.ba-li24 {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: rgb(37, 34, 34);
+	left: 525px;
+	top: 150px;
+}
+
+
+
+
+
+
+.ba-li25{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color:rgb(37, 34, 34);
+	top: 225px;
+}
+
+.ba-li26 {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: white;
+	left: 75px;
+	top:225px;
+}
+
+.ba-li27{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: rgb(37, 34, 34);
+	left: 150px;
+	top: 225px;
+}
+
+.ba-li28 {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: white;
+	left: 225px;
+	top: 225px;
+}
+
+.ba-li29{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color:rgb(37, 34, 34);
+	left: 300px;
+	top: 225px;
+}
+
+.ba-li30 {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color:white;
+	left: 375px;
+	top: 225px;
+}
+
+.ba-li31{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color:rgb(37, 34, 34);
+	left: 450px;
+	top: 225px;
+}
+.ba-li32 {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: white;
+	left: 525px;
+	top: 225px;
+}
+
+
+
+
+
+
+
+
+
+
+.ba-li33{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: rgb(37, 34, 34);
+	bottom: 0;
+}
+
+.ba-li34{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color:white;
+	bottom: 0;
+	left: 75px;
+}
+.ba-li35{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: rgb(37, 34, 34);
+	left: 150px;
+	bottom: 0;
+}
+
+.ba-li36 {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color:white;
+	left: 225px;
+	bottom: 0;
+}
+
+.ba-li37{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color:rgb(37, 34, 34);
+	left: 300px;
+	bottom: 0;
+}
+
+.ba-li38{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: white;
+	left: 375px;
+	bottom: 0;
+}
+.ba-li39 {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color:rgb(37, 34, 34);
+	left: 450px;
+	bottom: 0;
+}
+
+.ba-li40{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: white;
+	left: 525px;
+	bottom: 0;
+}
+
+
+
+
+
+
+
+
+
+
+.ba-li41{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color:white;
+	bottom: 75px;
+}
+
+.ba-li42 {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color:rgb(37, 34, 34);
+	left: 75px;
+bottom: 75px;
+}
+
+.ba-li43{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: white;
+	left: 150px;
+	bottom: 75px;
+}
+
+.ba-li44 {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: rgb(37, 34, 34);
+	left: 225px;
+	bottom: 75px;
+}
+
+.ba-li45{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color:white;
+	left: 300px;
+	bottom: 75px;
+}
+
+.ba-li46 {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color:rgb(37, 34, 34);
+	left: 375px;
+	bottom: 75px;
+}
+
+.ba-li47{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color:white;
+	left: 450px;
+	bottom: 75px;
+}
+.ba-li48 {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: rgb(37, 34, 34);
+	left: 525px;
+	bottom: 75px;
+}
+
+
+
+
+
+.ba-li49{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color:rgb(37, 34, 34);
+	bottom: 150px;
+}
+
+.ba-li50{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color:white;
+	bottom: 150px;
+	left: 75px;
+}
+.ba-li51{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color:rgb(37, 34, 34);
+	left: 150px;
+	bottom: 150px;
+}
+
+.ba-li52 {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: white;
+	left: 225px;
+	bottom: 150px;
+}
+
+.ba-li53{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: rgb(37, 34, 34);
+	left: 300px;
+	bottom: 150px;
+}
+
+.ba-li54{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: white;
+	left: 375px;
+	bottom: 150px;
+}
+.ba-li55 {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color:rgb(37, 34, 34);
+	left: 450px;
+	bottom: 150px;
+}
+
+.ba-li56{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: white;
+	left: 525px;
+	bottom: 150px;
+}
+
+
+
+
+
+.ba-li57{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color:white;
+	bottom: 225px;
+}
+
+.ba-li58 {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color:rgb(37, 34, 34);
+	left: 75px;
+bottom: 225px;
+}
+
+.ba-li59{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: white;
+	left: 150px;
+	bottom: 225px;
+}
+
+.ba-li60 {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: rgb(37, 34, 34);
+	left: 225px;
+	bottom: 225px;
+}
+
+.ba-li61{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color:white;
+	left: 300px;
+	bottom: 225px;
+}
+
+.ba-li62 {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color:rgb(37, 34, 34);
+	left: 375px;
+	bottom: 225px;
+}
+
+.ba-li63{
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color:white;
+	left: 450px;
+	bottom: 225px;
+}
+.ba-li64 {
+	position: absolute;
+	width: 75px;
+	height: 75px;
+	background-color: rgb(37, 34, 34);
+	left: 525px;
+	bottom: 225px;
+}
+
+
+
+
+
+
+
+
+.ba-container{
+	margin-top: 20px;
+	display: flex;
+	justify-content: center;
+
+	
+}
+
+
+
+
+
+/* Layout */
+.ba-container{
+	padding-left: 20px;
+	padding-right: 20px;
+	max-width: 1200px;
+}
+
+/* Typography */
+a,
+input[type="submit"],
+input[type="button"],
+button{
+	transition: color .3s ease-in, border-color .3s ease-in, background-color .3s ease-in, opacity .3s ease-in;
+}
+input[type="submit"],
+input[type="button"],
+button,
+.ba-button{
+	display: inline-block;
+}
+input[type="submit"]:hover,
+input[type="button"]:hover,
+button:hover,
+.ba-button:hover{
+
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="number"],
+input[type="tel"],
+textarea,
+select {
+	transition: color .3s ease-in, border-color .3s ease-in, background-color .3s ease-in, opacity .3s ease-in;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="password"]:focus,
+input[type="number"]:focus,
+input[type="tel"]:focus,
+textarea:focus,
+select:focus {
+
+}
+textarea {
+
+}
